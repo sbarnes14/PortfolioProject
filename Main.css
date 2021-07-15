@@ -1,0 +1,47 @@
+body{
+    background: url(img/Indy.jpeg) no-repeat fixed top center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h1{
+    font-size: 6.0em;
+    text-align: center;
+    margin: 0px;
+}
+
+h2{
+    text-align: center; 
+    padding-bottom: 10em;
+
+}
+
+div.panel{
+    background-color:slategrey;
+    background-size: 100% 100%;
+    margin-top: 32em;
+    padding-top: 3em;
+    padding-bottom: 6em;
+}
+
+div.panel h1{
+    text-align: left;
+    font-size: 3em;
+    padding-left: 3.25em;
+}
+
+div.panel p{
+    font-size: 2em;
+    width: 800px;
+    padding-left: 5em;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    float: right;
+}
