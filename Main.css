@@ -20,12 +20,12 @@ h2{
 
 }
 
-div.panel{
+section#main{
     background-color:slategrey;
     background-size: 100% 100%;
     margin-top: 32em;
     padding-top: 3em;
-    padding-bottom: 6em;
+    padding-bottom: 40em;
 }
 
 div.panel h1{
@@ -44,4 +44,16 @@ img{
     width: 300px;
     height: 400px;
     float: right;
+}
+
+h3{
+    text-align: center;
+    font-size: 2em;
+    padding-top: 2em;
+}
+
+article{
+    float: left;
+    padding-left: 15em;
+    position: relative;
 }
